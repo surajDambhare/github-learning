@@ -2,6 +2,8 @@ package login;
 
 public class User {
 
+    //git commit -m "Complete login functionality"
+
     private String username;
     private String password;
 
@@ -20,4 +22,6 @@ public class User {
     public void setPassword(String password) {
         this.password = password;
     }
+
+
 }
